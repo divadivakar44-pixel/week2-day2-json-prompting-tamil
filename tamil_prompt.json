@@ -1,0 +1,42 @@
+
+{
+  "subject": "A Tamil woman wearing a traditional Kanchipuram silk saree, drawing a beautiful white rice flour kolam at the entrance of a Chettinad heritage house",
+  "setting": {
+    "place": "Chettinad courtyard, Tamil Nadu, India",
+    "era": "Early 20th-century Tamil heritage setting",
+    "time_of_day": "Early morning during Margazhi"
+  },
+  "lighting": "Soft natural early morning sunlight with warm traditional oil lamp glow",
+  "camera": {
+    "shot": "Wide shot",
+    "lens": "35mm",
+    "angle": "Eye-level angle"
+  },
+  "palette": [
+    "Terracotta red",
+    "Golden yellow",
+    "Traditional maroon",
+    "Earthy brown"
+  ],
+  "style": "Photorealistic cinematic photography with authentic Chettinad architecture, wooden pillars, Athangudi floor tiles and traditional Tamil cultural details",
+  "aspect_ratio": "16:9",
+  "avoid": [
+    "Modern buildings",
+    "Western clothing",
+    "Incorrect traditional clothing",
+    "North Indian architectural elements",
+    "Cartoon appearance",
+    "Distorted hands",
+    "Extra fingers",
+    "Unnatural facial features",
+    "Text and watermarks"
+  ]
+}
+
+,
+"motion": {
+  "subject_motion": "The Tamil woman gently moves her hand while drawing the kolam, with subtle movement of her saree in the morning breeze",
+  "camera_move": "Slow cinematic forward camera movement",
+  "duration_seconds": 5
+}
+
